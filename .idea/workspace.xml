@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551cbf48-9697-413d-842b-26e6eee2e9ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J1.L.P0008.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/author.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/ActiveWithFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/AddNewBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book.dat" beforeDir="false" afterPath="$PROJECT_DIR$/book.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/BookStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method/ActiveWithFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method/ActiveWithFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method/AddNewBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method/AddNewBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/huyico/IdeaProjects/Demo_backend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/huyico/IdeaProjects/J1.L.P0008/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/huyico/IdeaProjects/J1.L.P0008&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/huyico/IdeaProjects/J1.L.P0008/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +64,10 @@
       <updated>1714569584766</updated>
       <workItem from="1714569585835" duration="177000" />
       <workItem from="1714569785131" duration="11117000" />
+      <workItem from="1714650886273" duration="600000" />
+      <workItem from="1714711343229" duration="299000" />
+      <workItem from="1714712673215" duration="600000" />
+      <workItem from="1714750816849" duration="11741000" />
     </task>
     <servers />
   </component>
